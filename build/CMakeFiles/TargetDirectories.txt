@@ -1,0 +1,4 @@
+/home/lancedcantu/Workspace/cs480Cantu/computer-graphics/PA7/build/CMakeFiles/edit_cache.dir
+/home/lancedcantu/Workspace/cs480Cantu/computer-graphics/PA7/build/CMakeFiles/Tutorial_SUCCESSFUL.dir
+/home/lancedcantu/Workspace/cs480Cantu/computer-graphics/PA7/build/CMakeFiles/rebuild_cache.dir
+/home/lancedcantu/Workspace/cs480Cantu/computer-graphics/PA7/build/CMakeFiles/Tutorial.dir
